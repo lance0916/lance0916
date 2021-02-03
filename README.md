@@ -4,4 +4,4 @@
 
 我的技术栈主要是 `Java` 和 `Python`。欢迎各位同行进行交流分享。
 
-我的个人技术都分享在我的博客：[https://www.cnblogs.com/wuqinglong/](https://www.cnblogs.com/wuqinglong/)
+我的个人技术都分享在我的博客：[https://www.cnblogs.com/wuqinglong](https://www.cnblogs.com/wuqinglong)
